@@ -16,3 +16,22 @@
 <h4 align="center">Meu primeiro APP em React Native</h4>
 <h3 align="center">🚧 1º - Em Andamento / Fase do Front-End 🚧</h3>
 <h3 align="center">🚧 2º - Fase do Back-End 🚧</h3>
+
+<br>
+
+  ### Tecnologias 🚀
+
+  As seguintes ferramentas foram usadas na construção do projeto:
+
+  - [x] **Java**
+  - [x] **JavaScript**
+
+  #### Ferramentas
+
+  - [**VS CODE**](https://code.visualstudio.com/)
+
+
+<br>
+
+  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
+
