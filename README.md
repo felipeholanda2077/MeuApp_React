@@ -3,4 +3,4 @@
       <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
 
-# MeuApp_React
+<h1 align="center">MeuApp_React</h1>
