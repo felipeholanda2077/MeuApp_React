@@ -14,5 +14,5 @@
 <h3 align="center">Sobre o Projeto</h3>
 
 <h4 align="center">Meu primeiro APP em React Native</h4>
-<h3 align="center">🚀 1º - Fase Concluido / Front-End 🚀</h3>
-<h3 align="center">🚧 2º - Em Andamento / Página de Login 🚧</h3>
+<h3 align="center">🚧 1º - Em Andamento / Fase do Front-End 🚧</h3>
+<h3 align="center">🚧 2º - Fase do Back-End 🚧</h3>
