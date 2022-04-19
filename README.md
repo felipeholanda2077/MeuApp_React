@@ -10,3 +10,9 @@
 <a href="#Imagem">Imagem</a> • 
 <a href="#Tecnologias-">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
+
+<h3 align="center">Sobre o Projeto</h3>
+
+<h4 align="center">Meu primeiro APP em React Native</h4>
+<h3 align="center">🚀 1º - Fase Concluido / Front-End 🚀</h3>
+<h3 align="center">🚧 2º - Em Andamento / Página de Login 🚧</h3>
