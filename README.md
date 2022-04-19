@@ -24,6 +24,7 @@
   As seguintes ferramentas foram usadas na construção do projeto:
 
   - [x] **Java**
+  - [ ] **C++**
   - [x] **JavaScript**
 
   #### Ferramentas
