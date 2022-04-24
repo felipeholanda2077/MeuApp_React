@@ -15,6 +15,7 @@
 
 <h4 align="center">Meu primeiro APP em React Native</h4>
 <h3 align="center">🚧 1º - Em Andamento / Fase do Front-End 🚧</h3>
+<h3 align="center">🚧 2º - Fase UX/UI </h3>
 <h3 align="center">🚧 2º - Fase do Back-End 🚧</h3>
 
 <br>
