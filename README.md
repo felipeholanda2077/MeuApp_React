@@ -31,7 +31,7 @@
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-
+  - [**React Native**](https://reactnative.dev/)
 
 <br>
 
